@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {"key_id": "kms-prod-signing", "generation": 1, "encoding": "base64", "material_b64": "Mbr+zJ1Zg2Y4ktRwwgE1KIT8xP/HU5rJdCEm6KwImTI=", "not_before": "2026-01-05T08:00:00+08:00", "not_after": "2026-02-28T00:00:00Z", "grace_until": null, "revoked_at": null},
+    {"key_id": "kms-prod-signing", "generation": 2, "encoding": "base64url", "material_b64": "BS4eadHIdzq20IPRRNKfJqy3Ac5UbrsWbrP6w-p_3q4", "not_before": "20260320T000000Z", "not_after": "2026-07-01T00:00:00Z", "grace_until": "2026-07-15T00:00:00Z", "revoked_at": null},
+    {"key_id": "kms-prod-signing", "generation": 3, "encoding": "base64", "material_b64": "9bqq6X/FHQ+dhfO8a/E6qiM3x/CU2bOXxcUqoMQnDAE=", "not_before": "2026-07-20T00:00:00Z", "not_after": 1790812800, "grace_until": "2026-10-15T00:00:00Z", "revoked_at": 1787184000},
+    {"key_id": "kms-legacy-signing", "generation": 1, "encoding": "base64", "material_b64": "5x4vI8ldKnyjdypmeA1H0jMsFgFxu/Ghr+YFh8C8Vhs=", "not_before": "2026-01-01T00:00:00Z", "not_after": "2026-08-31T00:00:00Z", "grace_until": null, "revoked_at": null},
+    {"key_id": "kms-partner-verify", "generation": 1, "encoding": "base64", "material_b64": "ZE4y0jqlEuVaofVGVX+WFbcl6oUl1/UxVHTUV6ZjmLg=", "not_before": "2026-01-01T00:00:00Z", "not_after": "2026-03-31T00:00:00Z", "grace_until": null, "revoked_at": null},
+    {"key_id": "kms-partner-verify", "generation": 2, "encoding": "base64url", "material_b64": "5x4vI8ldKnyjdypmeA1H0jMsFgFxu_Ghr-YFh8C8Vhs", "not_before": 1772323200, "not_after": "2026-06-30T00:00:00Z", "grace_until": null, "revoked_at": "2026-05-01T00:00:00Z"},
+    {"key_id": "kms-batch-signing", "generation": 1, "encoding": "base64", "material_b64": "yanHMgVREFdWBoFDask8gc/o2oMOlt7+mz9drX6s+Bg=", "not_before": "2026-01-01T00:00:00Z", "not_after": "2026-03-31T00:00:00Z", "grace_until": "2026-06-30T00:00:00Z", "revoked_at": "2026-04-15T00:00:00Z"},
+    {"key_id": "kms-legacy-verify", "generation": 1, "encoding": "base64", "material_b64": "5x4vI8ldKnyjdypmeA1H0j\nMsFgFxu/Ghr+YFh8C8Vhs=", "not_before": "2026-01-01T00:00:00Z", "not_after": "2026-12-31T00:00:00Z", "grace_until": null, "revoked_at": null},
+    {"key_id": "kms-rotating-signing", "generation": 1, "encoding": "base64", "material_b64": "cm90YXRpbmctc2lnbmluZy1nZW5lcmF0aW9uLTEtMjAyNg==", "not_before": "2026-03-10T00:00:00Z", "not_after": "2026-09-30T00:00:00Z", "grace_until": null, "revoked_at": null},
+    {"key_id": "kms-rotating-signing", "generation": 2, "encoding": "base64url", "material_b64": "cm90YXRpbmctc2lnbmluZy1nZW5lcmF0aW9uLTItMjAyNg", "not_before": "2026-03-10T00:00:00Z", "not_after": "2026-12-31T00:00:00Z", "grace_until": null, "revoked_at": null}
+  ]
+}
